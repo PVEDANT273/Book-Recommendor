@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vSCode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large / generated data files
+books_cleaned.csv
+books_with_categories.csv
+books_with_emotions.csv
+tagged_descriptions.txt
+
+# Model / cache folders
+.chroma/
+.cache/
